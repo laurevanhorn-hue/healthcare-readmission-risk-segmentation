@@ -167,3 +167,9 @@ healthcare-readmission-risk-segmentation/
 - Segmentation analysis
 - Data visualization
 - Business interpretation
+
+## Analytical Focus
+
+This project demonstrates how encounter-level healthcare data can be transformed into a practical readmission risk segmentation framework.
+
+The analysis focuses on KPI definition, segmentation logic, and translating data into operational insights.
