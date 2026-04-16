@@ -6,6 +6,6 @@ Files used:
 - diabetic_data.csv
 - IDS_mapping.csv
 
-This repository does not include the full raw dataset.
-Please download it from the original source:
+Raw dataset is not stored in this repository.
+Original source:
 https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
