@@ -2,6 +2,7 @@
 
 Built a healthcare analytics project to identify high-risk 30-day readmission segments using encounter-level hospital data, KPI reporting, and business-focused segmentation.
 
+![Top Segments](images/top10_high_risk_segments_improved.png)
 ---
 
 ## Executive Snapshot
